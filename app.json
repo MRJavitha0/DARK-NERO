@@ -21,7 +21,7 @@
     },
      
      "ALIVE_LOGO" :{
-    "description" : "you logo key",
+    "description" : "Welcome to bot",
     "required" : true,
   "value" : "https://i.ibb.co/jzn91cx/OK6-W-ko-KDTOqqq-LDb-Io-PAh-Gno-BZp-Vp-Pzzvj-BBuwwe5g.gif"
     }
