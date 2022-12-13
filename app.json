@@ -1,29 +1,29 @@
 {
-  "name": "⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜",
+  "name": "꧁ᴹᴿ乃丨丂卄ㄖ卩༒꧂",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/zim-bot/zimbot-v2",
-  "logo": "https://i.ibb.co/Rg9YpBF/IMG-20221010-WA0039.jpg",
+  "repository": "#",
+  "logo": "https://i.ibb.co/C7Cfh1r/anime-boy-by-tiszardinio-dec55ir-pre-jpg-token-ey-J0e-XAi-Oi-JKV1-Qi-LCJhb-Gci-Oi-JIUz-I1-Ni-J9-ey-J.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
    "env": {
   
  "OWNER_NAME" :{
-    "description" : "enter you name",
+    "description" : "Hi I'm 𝕸𝕽 🅹卂𝕍ł₮卄卂",
     "required" : true,
-  "value" : "KAVEESHA "
+  "value" : "𝕸𝕽 🅹卂𝕍ł₮卄卂 "
     },
     
      
      
 "ALIVE_MSG" :{
-    "description" : "enter you msg",
+    "description" : "I'm Alive Now",
     "required" : true,
-  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+  "value" : "HI I'M  ꧁ᴹᴿ乃丨丂卄ㄖ卩༒꧂"
     },
      
      "ALIVE_LOGO" :{
     "description" : "you logo key",
     "required" : true,
-  "value" : "https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
+  "value" : "https://i.ibb.co/jzn91cx/OK6-W-ko-KDTOqqq-LDb-Io-PAh-Gno-BZp-Vp-Pzzvj-BBuwwe5g.gif"
     }
    },
      
